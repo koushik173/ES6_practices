@@ -48,23 +48,5 @@ my whole i know i always miss those when you was with me`
 console.log(multiline);
 console.log(multiline2);
 
-// arrow function
-const doubl = num => num*2;
-
-const mathSum = (num1, num2)=>
-{
-
-}
-console.log(doubl(8));
 
 
-// treedots------------>>>>>>>>>>>>>>>>>>>>>>>>
-
-const age = [9,8,7,9]
-const age2 = [2,35,45]
-
-const all = [...age,...age2]
-console.log(all);
-
-const takaPOisa = [650,62,85]
-console.log(Math.max(...takaPOisa)); 

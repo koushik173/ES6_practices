@@ -1,0 +1,10 @@
+// treedots------------>>>>>>>>>>>>>>>>>>>>>>>>
+
+const age = [9,8,7,9]
+const age2 = [2,35,45]
+
+const all = [...age,...age2]
+console.log(all);
+
+const takaPOisa = [650,62,85]
+console.log(Math.max(...takaPOisa)); 
